@@ -1,0 +1,30 @@
+.hidden{
+    opacity: 0;
+}
+
+.show{
+    display: block;
+}
+
+body{
+    position: relative;
+}
+
+.modal{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.card-castom{
+    width: 400px;
+
+
+    display: block;
+    margin: 30px auto;
+
+
+}
+
+.modal-header{
+    display: flex;
+    flex-direction: column;
+}
